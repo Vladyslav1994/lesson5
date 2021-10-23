@@ -1,0 +1,148 @@
+@media screen and (max-width: 600px) and (min-width: 360px) {
+    .main4, .rectangle{
+        width: 490px;
+        height: 600px;
+        background: #073254;
+        display: flex;
+        flex-wrap: wrap;
+        /*justify-content: center;*/
+        /*align-items: center;*/
+    }
+
+    .radius20 {
+        width: 490px;
+        height: 200px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .square {
+        height: 50px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .square1 {
+        width: 70px;
+        height: 70px;
+        background: #9da3a8;
+    }
+
+    .smallblock4 {
+        width: 490px;
+        /*height: 150px;*/
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 10px;
+    }
+
+    .midiumblock {
+        width: 40px;
+        height: 10px;
+        background: #9da3a8;
+        border-radius: 20px;
+        margin-right: 10px;
+    }
+
+    .littleblock {
+        width: 20px;
+        height: 5px;
+        background: #9da3a8;
+        border-radius: 20px;
+        margin-left: 10px;
+    }
+    .rectangle{
+        background: #122fb4;
+    }
+    .mainwheel1, .mainwheel{
+        width: 90px;
+        height: 90px;
+        margin: 20px;
+    }
+    .wheel{
+        width: 70px;
+        height: 70px;
+        border: 50px;
+    }
+    .mainwheel1{
+        border: none;
+    }
+    .noname{
+        width: 80px;
+        margin: 10px;
+    }
+}
+@media screen and (max-width: 359px) and (min-width: 28px) {
+    .main4, .rectangle{
+        width: 360px;
+        height: 350px;
+        background: #073254;
+        display: flex;
+        flex-wrap: wrap;
+        /*justify-content: center;*/
+        /*align-items: center;*/
+    }
+
+    .radius20 {
+        width: 330px;
+        height: 170px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .square {
+        height: 50px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .square1 {
+        width: 50px;
+        height: 50px;
+        background: #9da3a8;
+    }
+
+    .smallblock4 {
+        width: 490px;
+        /*height: 150px;*/
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 10px;
+    }
+
+    .midiumblock {
+        width: 40px;
+        height: 10px;
+        background: #9da3a8;
+        border-radius: 20px;
+        margin-right: 10px;
+    }
+
+    .littleblock {
+        width: 20px;
+        height: 5px;
+        background: #9da3a8;
+        border-radius: 20px;
+        margin-left: 10px;
+    }
+    .rectangle{
+        background: #122fb4;
+    }
+    .mainwheel1, .mainwheel{
+        width: 70px;
+        height: 70px;
+        margin: 10px;
+    }
+    .wheel{
+        width: 70px;
+        height: 70px;
+        border: 50px;
+    }
+    .mainwheel1{
+        border: none;
+    }
+    .noname{
+        width: 80px;
+        margin: 10px;
+    }
+}
