@@ -1,0 +1,165 @@
+@media screen and (max-width: 950px) {
+    .first1 {
+        display: flex;
+        justify-content: center;
+    }
+
+}
+
+@media screen and (max-width: 895px) and (min-width: 750px) {
+
+    .second {
+        width: 895px;
+        height: 130px;
+    }
+
+    .radius20 {
+        height: 300px;
+        border: none
+    }
+    .square{
+        height: 150px;
+    }
+    .forty{
+        width: 910px;
+    }
+}
+@media screen and (max-width: 750px) and (min-width: 600px) {
+.main5{
+    width: 750px;
+}
+    .first1{
+    display: flex;
+    justify-content: flex-start;
+}
+    .second {
+        width: 750px;
+        height: 130px;
+    }
+    .thirty{
+        width: 750px;
+        height: 350px;
+    }
+    .radius20 {
+        width: 750px;
+        height: 400px;
+        display: flex;
+        flex-wrap: wrap;
+        border: none
+    }
+    .rectangle{
+        width: 750px;
+    }
+    .square{
+        height: 80px;
+    }
+    .square1{
+        width: 120px;
+        height: 120px;
+        margin: 10px;
+    }
+    .midiumblock{
+        width: 60px;
+        height: 8px;
+    }
+    .forty{
+        width: 750px;
+        height: 650px;
+        align-items: start;
+    }
+    .five{
+        width: 700px;
+        height: 400px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .five1{
+        width: 250px;
+        height: 250px;
+        margin: 5px;
+
+    }
+}
+@media screen and (max-width: 600px) and (min-width: 450px) {
+    .main5{
+        width: 750px;
+    }
+    .first1{
+        display: flex;
+        justify-content: flex-start;
+    }
+    .second {
+        width: 600px;
+        height: 130px;
+        display: flex;
+        justify-content: start;
+
+    }
+    .thirty{
+        width: 600px;
+        height: 350px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .radius20 {
+        width: 600px;
+        height: 300px;
+        display: flex;
+        flex-wrap: wrap;
+        border: none
+    }
+    .rectangle{
+        width: 600px;
+        height: 200px;
+    }
+    .square{
+        height: 80px;
+    }
+    .square1{
+        width: 80px;
+        height: 80px;
+        margin: 15px;
+    }
+    .midiumblock{
+        width: 40px;
+        height: 5px;
+    }
+    .littleblock{
+        width: 25px;
+        height: 3px;
+    }
+    .number4{
+        margin-left: 25px;
+    }
+    .forty{
+        width: 600px;
+        height: 650px;
+        align-items: start;
+    }
+    .five{
+        width: 600px;
+        height: 400px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .five1{
+        width: 250px;
+        height: 250px;
+        margin: 5px;
+
+    }
+    .smallblock1{
+        display: flex;
+        align-items: flex-end;
+    }
+    .mainwheel, .mainwheel1{
+        width: 150px;
+        height: 170px;
+    }
+    .wheel{
+        width: 100px;
+        height: 100px;
+        margin: 10px;
+    }
+}
